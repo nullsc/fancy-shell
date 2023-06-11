@@ -15,8 +15,12 @@ PHP web shell
 
 - [ ] Add Emailer function
 - [ ] Add SQL browser
+- [ ] Add login page
+- [ ] Add reverse shell function
 
 
 Currently in alpha testing stages
 
-![Screenshot](/imgs/fshell3.PNG)
+![Screenshot of Fancy Shell](/imgs/fshell3.PNG)
+![Screenshot of Fancy Shell](/imgs/fshell1.PNG)
+![Screenshot of Fancy Shell](/imgs/fshell2.PNG)
