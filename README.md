@@ -5,7 +5,7 @@ PHP web shell
 ## Features
 
 - Files/Directory viewer
-- Edit/view/create/delete/download files
+- Edit/view/create/delete/upload/download files
 - Command execution
 - Get server/security information
 - String tools
@@ -17,6 +17,7 @@ PHP web shell
 - [ ] Add SQL browser
 - [ ] Add login page
 - [ ] Add reverse shell function
+- [ ] Add process viewer
 
 
 Currently in alpha testing stages
