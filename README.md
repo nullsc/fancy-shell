@@ -6,10 +6,10 @@ PHP web shell
 
 - Files/Directory viewer
 - Edit/view/create/delete/upload/download files
-- Command execution
+- Command execution - Uses multiple methods to bypass any protections
 - Get server/security information
 - String tools
-- Runs on PHP version >4 
+- Runs on PHP version > 4 
 
 ## TODO
 
@@ -18,6 +18,7 @@ PHP web shell
 - [ ] Add login page
 - [ ] Add reverse shell function
 - [ ] Add process viewer
+- [ ] Add folder ordering
 
 
 Currently in alpha testing stages
